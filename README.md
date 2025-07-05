@@ -23,7 +23,6 @@
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marpini-hima-bindu)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bindu_2342)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23DB7093.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/himabindu6874)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/himabindumarpini)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?logo=LeetCode&logoColor=white)](https://www.leetcode.com/bindu_26)
