@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marpini Himabindu</h1>
-<h3 align="center">A passionate Web developer and Ai-Ml enthusiast from India</h3>
+<h3 align="center">A passionate Ai-Ml enthusiast from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Lung Cancer Prediction](https://github.com/bindu2607/lung-cancer-prediction-using-deep-learning)
 
-- 🌱 I’m currently learning ** Pytorch, DSA**
+- 🌱 I’m currently learning ** Java, DSA, NLP**
 
 - All of my projects are available at [https://github.com/bindu2607](https://github.com/bindu2607)
 
