@@ -1,75 +1,128 @@
-<h1 align="center">Hi 👋, I'm Marpini Himabindu</h1>
-<h3 align="center">A passionate Ai-Ml enthusiast from India</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Marpini%20Himabindu&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+</div>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00ADEF&center=true&vCenter=true&width=940&lines=Hey+there+%F0%9F%91%8B%F0%9F%8F%BC%2C+I'm+Marpini+Himabindu;NLP+%26+AI%2FML+Developer+%F0%9F%9A%80;Building+the+future+with+code+%26+AI+%F0%9F%A4%96;From+India+with+%E2%9D%A4%EF%B8%8F+%26+passion!" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bindu2607&label=Profile%20views&color=0e75b6&style=flat" alt="bindu2607" /> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=bindu2607&style=for-the-badge&color=00ADEF" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/bindu2607?style=for-the-badge&color=00ADEF&labelColor=1c1917" alt="GitHub Followers" />
+</div>
 
-- 🔭 I’m currently working on [Lung Cancer Prediction](https://github.com/bindu2607/lung-cancer-prediction-using-deep-learning)
+<br>
 
-- 🌱 I’m currently learning ** Java, DSA, NLP**
-
-- All of my projects are available at [https://github.com/bindu2607](https://github.com/bindu2607)
-
-- 💬 Ask me about **C++, Java, HTML, CSS, JavaScript**
-
-- 📫 How to reach me **himabindumarpini@gmail.com**
+<div align="center">
   
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bindu2607&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  🎓 **BTECH in IT** | 🤖 **AI/ML Enthusiast** | 🌐 **NLP Specialist** | 💡 **Research-Oriented**
+  
+</div>
+
+---
 
 
-## 🌐 Socials:
-### Connect with me:
+### 🚀 About Me
+
+```javascript
+const Himabindu = {
+    pronouns: "She/Her",
+    location: "India 🇮🇳",
+    education: "BTECH in IT",
+    currentRole: "AI Engineer Intern @ Oscowl AI",
+    interests: ["AI/ML", "Front-End Development", "NLP", "Research"],
+    motto: "Building real-world solutions with passion ✨"
+};
+```
+
+<br clear="right"/>
+
+---
+
+<h2 align="center">🛠️ Tech Arsenal</h2>
+
+<div align="center">
+
+## 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white"/>
+</p>
+
+## 🚀 Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+## 🧠 AI & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF4B4B?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=googletranslate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformers-0052CC?style=for-the-badge&logo=huggingface&logoColor=white"/>
+</p>
+
+## 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bindu2607&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ADEF&icon_color=00ADEF&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bindu2607&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ADEF&text_color=c9d1d9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bindu2607&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ADEF&fire=00ADEF&currStreakLabel=00ADEF" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bindu2607&bg_color=0d1117&color=00ADEF&line=00ADEF&point=c9d1d9&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+  <!-- Snake Game Repo View --> <div align="center"> <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> </div>
+</div>
+
+
+<h2 align="center">🤝 Let's Connect & Collaborate</h2>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marpini-hima-bindu)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23DB7093.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/himabindu6874)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/himabindumarpini)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?logo=LeetCode&logoColor=white)](https://www.leetcode.com/bindu_26)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himabindumarpini@gmail.com)
-
-
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-%230073C2.svg?style=for-the-badge&logo=apache-netbeans&logoColor=white)
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  
+  <br>
+  
+  **💬 Always open to interesting conversations and collaboration opportunities!**
+  
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bindu2607&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bindu2607&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bindu2607&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bindu2607&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=bindu2607&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <i>⭐ From <a href="https://github.com/bindu2607">Marpini Himabindu</a> - Let's build something amazing together! ⭐</i>
+</div>
