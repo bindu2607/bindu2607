@@ -43,13 +43,13 @@ const Himabindu = {
 
 <div align="center">
 
-## 💻 Programming Languages
+### 💻 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,cpp" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white"/>
 </p>
 
-## 🚀 Frameworks & Libraries
+### 🚀 Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -58,7 +58,7 @@ const Himabindu = {
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-## 🧠 AI & Machine Learning
+### 🧠 AI & Machine Learning
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Deep%20Learning-FF4B4B?style=for-the-badge&logo=python&logoColor=white"/>
@@ -66,7 +66,7 @@ const Himabindu = {
   <img src="https://img.shields.io/badge/Transformers-0052CC?style=for-the-badge&logo=huggingface&logoColor=white"/>
 </p>
 
-## 🛠️ Tools & Platforms
+### 🛠️ Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
